@@ -1,1 +1,3 @@
-# comma-ai-challenge
+# Comma AI Challenge
+
+from http://geohot.com/projective_challenge.tar.gz
